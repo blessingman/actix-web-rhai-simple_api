@@ -1,1 +1,1 @@
-# actix-web-rhai-simple_api
+# 🦀actix-web-rhai-simple_api
